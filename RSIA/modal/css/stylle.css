@@ -1,0 +1,48 @@
+.main
+{
+    padding: 10px;
+    text-align: center;
+}
+.heading-title
+{
+	margin-bottom: 30px;
+}
+.kelompok{
+    text-align: center;
+    position: center;
+}
+
+.kelompok .pic img{
+    width: 100%;
+    height: auto;
+}
+
+.kelompok .team-content{
+    padding: 15px 10px;
+    background: #fff;
+    position: relative;
+}
+
+.kelompok .title{
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+    margin: 0 0 12px 0;
+}
+
+.kelompok small{
+    display: block;
+    font-size: 14px;
+    color: #999;
+    margin-bottom: 8px;
+}
+
+.kelompok .nim{
+    display: block;
+    font-size: 14px;
+    color: #999;
+    text-transform: capitalize;
+}
+
+/* CSS Document */
